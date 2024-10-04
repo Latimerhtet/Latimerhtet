@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaung Htet San</h1>
 <h3 align="center">A enthusiastic web developer from Myanmar</h3>
 
+Motivated and detail-oriented aspiring web developer with a strong foundation in HTML, CSS, and JavaScript. Proficient in responsive design and familiar with front-end frameworks like React and Tailwind. Passionate about learning new technologies and contributing to collaborative projects. Eager to apply coding skills and problem-solving abilities in a dynamic development environment.
+
 - 💬 Ask me about **React, Express and Typescript**
 
 - 📫 How to reach me **latimerhtet@gmail.com**
